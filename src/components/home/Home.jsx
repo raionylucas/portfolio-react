@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 
 //Images
-import Resume from "../../assets/resume/lucas-raiony-cv.pdf";
+import Resume from "../../assets/resume/lucas-raiony-currículo.pdf";
 
 //Styles
 import "./Home.scss";
