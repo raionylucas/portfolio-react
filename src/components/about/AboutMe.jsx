@@ -8,10 +8,10 @@ function AboutMe() {
         <h2>Um pouco sobre a minha trajetória</h2>
         <p>
           Me chamo Lucas Raiony, tenho 23 anos e sou um desenvolvedor Front-end
-          especializado em aplicações web. Anteriormente, atuei como Designer
-          Gráfico e UI Designer, contribuindo para o desenvolvimento de marcas e
-          interfaces para diversas empresas e profissionais autônomos.
-          Atualmente, dedico-me integralmente à área de programação web.
+          especializado em aplicações web. Anteriormente, trabalhei como
+          Designer Gráfico, desenvolvendo marcas e peças gráficas para empresas
+          e profissionais autônomos. Atualmente, dedico-me integralmente à área
+          de programação web.
           <br />
           <br />
           Com uma paixão por design e tecnologia, encontrei no Front-end uma
