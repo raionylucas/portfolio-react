@@ -8,7 +8,7 @@ function Projects() {
       <div className='projects__cards'>
         <CardProject 
         name='Gerenciador Financeiro'
-        description = ' Sistema desenvolvido para gerenciar finanças pessoais desenvolvido com PHP, MySQL, Composer e Padrão MVC.' 
+        description = ' Sistema criado para gerenciar finanças pessoais desenvolvido com PHP, MySQL, Composer e Padrão MVC.' 
         projectLink='https://github.com/raionylucas/gerenciador-financeiro-php/tree/main'
         textBtnProject ='Visitar Repositório'
         />
