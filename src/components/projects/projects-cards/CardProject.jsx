@@ -7,7 +7,7 @@ function CardProject(props) {
   const [description, setDescription] = useState(props.description);
   const [projectLink, setProjectLink] = useState(props.projectLink);
   const [projectDisable, setProjectDisable] = useState();
-  const [textBtnProject, setTextBtnProject] = useState("Visualizar Projeto");
+  const [textBtnProject, setTextBtnProject] = useState(props.textBtnProject);
 
   if (!name && !description & !projectLink) {
     setName("Em construção");
@@ -23,7 +23,7 @@ function CardProject(props) {
     <div className={`project-container ${projectDisable}`}>
       <h3>{name}</h3>
       <p>{description}</p>
-      <RedirectButton link={projectLink} name={textBtnProject} />
+      <RedirectButton link={projectLink} name ={textBtnProject} />
     </div>
   );
 }
