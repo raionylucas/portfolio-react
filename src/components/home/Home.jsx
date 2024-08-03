@@ -16,7 +16,7 @@ function Home() {
   return (
     <section className='home layout-grid'>
       <h1 className='home__title'>
-        Olá. Sou Lucas Raiony Desenvolvedor Front-end 👋{" "}
+        Olá. Sou Lucas Raiony Desenvolvedor Web 👋{" "}
       </h1>
       <div className='home__buttons'>
         <RedirectButton name='Meu currículo' link={Resume} />
