@@ -21,9 +21,11 @@ function CardProject(props) {
 
   return (
     <div className={`project-container ${projectDisable}`}>
+      <div className="card-desc-content">
       <h3>{name}</h3>
       <p>{description}</p>
-      <RedirectButton link={projectLink} name ={textBtnProject} />
+      </div>
+      <RedirectButton className="card-project-btn" link={projectLink} name ={textBtnProject} />
     </div>
   );
 }
