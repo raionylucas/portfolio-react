@@ -7,11 +7,11 @@ function AboutMe() {
       <div className='about__left'>
         <h2>Sobre mim</h2>
         <p>
-          Meu nome é Lucas Raiony, tenho 23 anos e sou desenvolvedor Front-end,
+          Meu nome é Lucas Raiony, tenho 23 anos e sou desenvolvedor web,
           formado em Sistemas para Internet pelo Instituto Federal de Brasília.
           Desde minha formação em 2019, decidi focar meus estudos e minha
           carreira no desenvolvimento de aplicações para a web,
-          especializando-me nas tecnologias mais modernas do mercado.
+          especializando-me nas principais tecnologias do mercado.
         </p>
         <RedirectButton
           name='Saiba mais'
@@ -27,10 +27,10 @@ function AboutMe() {
             <li className='about__right__skills__tags__item'>JavaScript</li>
             <li className='about__right__skills__tags__item'>PHP</li>
             <li className='about__right__skills__tags__item'>MySQL</li>
+            <li className='about__right__skills__tags__item'>Git</li>
             <li className='about__right__skills__tags__item'>React</li>
             <li className='about__right__skills__tags__item'>Sass</li>
             <li className='about__right__skills__tags__item'>Tailwind</li>
-            <li className='about__right__skills__tags__item'>Git</li>
             <li className='about__right__skills__tags__item'>Figma</li>
             <li className='about__right__skills__tags__item'>UI</li>
           </ul>
