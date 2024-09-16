@@ -22,18 +22,18 @@ function AboutMe() {
         <div className='about__right__skills'>
           <h2>Habilidades</h2>
           <ul className='about__right__skills__tags'>
+            <li className='about__right__skills__tags__item'>PHP</li>
+            <li className='about__right__skills__tags__item'>JavaScript</li>
             <li className='about__right__skills__tags__item'>HTML</li>
             <li className='about__right__skills__tags__item'>CSS3</li>
-            <li className='about__right__skills__tags__item'>JavaScript</li>
-            <li className='about__right__skills__tags__item'>PHP</li>
             <li className='about__right__skills__tags__item'>MySQL</li>
             <li className='about__right__skills__tags__item'>Git</li>
-            <li className='about__right__skills__tags__item'>React</li>
+            <li className='about__right__skills__tags__item'>ReactJS</li>
             <li className='about__right__skills__tags__item'>API</li>
-            <li className='about__right__skills__tags__item'>Sass</li>
-            <li className='about__right__skills__tags__item'>Tailwind</li>
-            <li className='about__right__skills__tags__item'>Figma</li>
-            <li className='about__right__skills__tags__item'>UI</li>
+            <li className='about__right__skills__tags__item'>Docker</li>
+            <li className='about__right__skills__tags__item'>Laravel</li>
+            <li className='about__right__skills__tags__item'>Linux</li>
+            <li className='about__right__skills__tags__item'>Composer</li>            
           </ul>
         </div>
         <div className='about__right__education'>
