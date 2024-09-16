@@ -18,7 +18,12 @@ function Projects() {
           projectLink='https://dataagency.vercel.app'
           textBtnProject ='Visualizar Projeto'
         />
-        <CardProject />
+        <CardProject 
+          name='Dr Hugo Ary Oliveira'
+          description='Landign page clean e responsiva com objetivo de apresentar informações sobre o médico neurologista Dr. Hugo Ary Oliveira.'
+          projectLink='https://drhugoary.com.br'
+          textBtnProject='Visualizar Projeto'
+        />
       </div>
     </section>
   );
