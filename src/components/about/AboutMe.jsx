@@ -32,7 +32,8 @@ function AboutMe() {
             <li className='about__right__skills__tags__item'>API</li>
             <li className='about__right__skills__tags__item'>Docker</li>
             <li className='about__right__skills__tags__item'>Laravel</li>
-            <li className='about__right__skills__tags__item'>Linux</li>
+            <li className='about__right__skills__tags__item'>Tailwind</li>
+            <li className='about__right__skills__tags__item'>Kanban</li>
             <li className='about__right__skills__tags__item'>Composer</li>            
           </ul>
         </div>
